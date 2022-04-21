@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_05-SpringMVC-09-AJax:war">
+    <output-path>$PROJECT_DIR$/../05-SpringMVC-09-AJax/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>_05-SpringMVC-09-AJax</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_05-SpringMVC-09-AJax-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="_05-SpringMVC-09-AJax:war exploded" />
+    </root>
+  </artifact>
+</component>
