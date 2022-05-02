@@ -79,6 +79,21 @@
         <option value="$PROJECT_DIR$/../06-SSM-03-cloud_diary/pom.xml" />
         <option value="$PROJECT_DIR$/08-SpringBoot-01-Starter/pom.xml" />
         <option value="$PROJECT_DIR$/../08-springboot-01-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-07-Jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-08-JdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-09-ByBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-10-RESTful/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-11-Exception/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-12-Filter/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-13-Interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-14-Fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-15-CrossOrigin/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-16-i18n/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-17-Junit4/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-18-Junit5/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringBoot-StudentCore/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringBoot-StudentScore/pom.xml" />
+        <option value="$PROJECT_DIR$/../08-SpringBoot-19-Mail/pom.xml" />
       </list>
     </option>
   </component>

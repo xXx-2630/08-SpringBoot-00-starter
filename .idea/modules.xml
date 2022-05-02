@@ -48,8 +48,23 @@
       <module fileurl="file://$PROJECT_DIR$/../06-SSM-01-Wyy/06-SSM-01-Wyy.iml" filepath="$PROJECT_DIR$/../06-SSM-01-Wyy/06-SSM-01-Wyy.iml" />
       <module fileurl="file://$PROJECT_DIR$/../06-SSM-02-Poverty-Alleviation/06-SSM-02-Poverty-Alleviation.iml" filepath="$PROJECT_DIR$/../06-SSM-02-Poverty-Alleviation/06-SSM-02-Poverty-Alleviation.iml" />
       <module fileurl="file://$PROJECT_DIR$/../06-SSM-03-cloud_diary/06-SSM-03-cloud_diary.iml" filepath="$PROJECT_DIR$/../06-SSM-03-cloud_diary/06-SSM-03-cloud_diary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07-JWT-00-Session-Cookie/07-JWT-00-Session-Cookie.iml" filepath="$PROJECT_DIR$/../07-JWT-00-Session-Cookie/07-JWT-00-Session-Cookie.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/08-SpringBoot-00-starter.iml" filepath="$PROJECT_DIR$/.idea/08-SpringBoot-00-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-07-Jsp/08-SpringBoot-07-Jsp.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-07-Jsp/08-SpringBoot-07-Jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-08-JdbcTemplate/08-SpringBoot-08-JdbcTemplate.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-08-JdbcTemplate/08-SpringBoot-08-JdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-09-ByBatis/08-SpringBoot-09-ByBatis.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-09-ByBatis/08-SpringBoot-09-ByBatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-10-RESTful/08-SpringBoot-10-RESTful.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-10-RESTful/08-SpringBoot-10-RESTful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-11-Exception/08-SpringBoot-11-Exception.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-11-Exception/08-SpringBoot-11-Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-12-Filter/08-SpringBoot-12-Filter.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-12-Filter/08-SpringBoot-12-Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-13-Interceptor/08-SpringBoot-13-Interceptor.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-13-Interceptor/08-SpringBoot-13-Interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-14-Fileupload/08-SpringBoot-14-Fileupload.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-14-Fileupload/08-SpringBoot-14-Fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-15-CrossOrigin/08-SpringBoot-15-CrossOrigin.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-15-CrossOrigin/08-SpringBoot-15-CrossOrigin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-16-i18n/08-SpringBoot-16-i18n.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-16-i18n/08-SpringBoot-16-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-17-Junit4/08-SpringBoot-17-Junit4.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-17-Junit4/08-SpringBoot-17-Junit4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-18-Junit5/08-SpringBoot-18-Junit5.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-18-Junit5/08-SpringBoot-18-Junit5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-SpringBoot-19-Mail/08-SpringBoot-19-Mail.iml" filepath="$PROJECT_DIR$/../08-SpringBoot-19-Mail/08-SpringBoot-19-Mail.iml" />
       <module fileurl="file://$PROJECT_DIR$/../08-springboot-01-starter/08-springboot-01-starter.iml" filepath="$PROJECT_DIR$/../08-springboot-01-starter/08-springboot-01-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringBoot-StudentScore/SpringBoot-StudentScore.iml" filepath="$PROJECT_DIR$/../SpringBoot-StudentScore/SpringBoot-StudentScore.iml" />
       <module fileurl="file://$PROJECT_DIR$/../05-SpringMVC-08-Annotation/_05-SpingMVC-08-Annotation.iml" filepath="$PROJECT_DIR$/../05-SpringMVC-08-Annotation/_05-SpingMVC-08-Annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/../05-SpringMVC-06-ViewResolver/_05-SpringMVC-06-ViewResolver.iml" filepath="$PROJECT_DIR$/../05-SpringMVC-06-ViewResolver/_05-SpringMVC-06-ViewResolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/../05-SpringMVC-07-ResponseDate/_05-SpringMVC-07-ResponseDate.iml" filepath="$PROJECT_DIR$/../05-SpringMVC-07-ResponseDate/_05-SpringMVC-07-ResponseDate.iml" />
@@ -57,7 +72,6 @@
       <module fileurl="file://$PROJECT_DIR$/../05-SpringMVC-10-FileUpload/_05-SpringMVC-10-FileUpload.iml" filepath="$PROJECT_DIR$/../05-SpringMVC-10-FileUpload/_05-SpringMVC-10-FileUpload.iml" />
       <module fileurl="file://$PROJECT_DIR$/../05-SpringMVC-11-FileDowLoad/_05-SpringMVC-11-FileDowLoad.iml" filepath="$PROJECT_DIR$/../05-SpringMVC-11-FileDowLoad/_05-SpringMVC-11-FileDowLoad.iml" />
       <module fileurl="file://$PROJECT_DIR$/../05-SpringMVC-02-RequestMapping/_05_SpringMVC-02-RequestMapping.iml" filepath="$PROJECT_DIR$/../05-SpringMVC-02-RequestMapping/_05_SpringMVC-02-RequestMapping.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../07-JWT-00-Session-Cookie/_07-JWT-00-Session-Cookie.iml" filepath="$PROJECT_DIR$/../07-JWT-00-Session-Cookie/_07-JWT-00-Session-Cookie.iml" />
     </modules>
   </component>
 </project>
